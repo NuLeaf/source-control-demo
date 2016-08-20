@@ -1,2 +1,1 @@
-# Source Control Demo
-## Hello World! My name is Tuan.
+# Goodbye World x_x
